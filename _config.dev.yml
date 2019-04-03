@@ -1,4 +1,4 @@
-environment: production
+environment: development
 # Site
 title: Cuong Nguyen Sy Manh
 bio: "The hardest victory is the victory over self"
@@ -39,7 +39,6 @@ google:
     #ad-slot:
 #bing-verify:
 email: cuongnsm@gmail.com
-phone: "+84972647258"
 twitter: cuongnsm
 facebook: nguyensymanhcuong
 #github-url:         cuongnsm
