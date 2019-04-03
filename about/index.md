@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About
+tags: [about, cuongnsm, blogs, luffy]
 date: 2019-01-01
 comments: false
 ---
