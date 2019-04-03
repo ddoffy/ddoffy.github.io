@@ -1,2 +1,7 @@
-title: My Site
-
+title: CuongNSM's blog
+description: I share everything what I know without I don't care which is wrong or right
+baseurl : cuongnsm.github.io
+url : cuongnsm.github.io
+mathjax: true
+disqus_shortname : cuongnsm
+paginate:  10
