@@ -7,7 +7,20 @@ comments: false
 ---
 
 ## Nguyen Sy Manh Cuong
-### Luffy
+
+<table>
+<tr>
+<th>DOB</th>
+<td>16/10/1994</td>
+</tr>
+<tr>
+<th>
+Gender</th> <td>	Male </td> </tr> <tr>
+<th>Phone</th>	<td>+84972647258</td> </tr> <tr>
+<th>Email</th>		<td>cuongnsm@gmail.com</td> </tr> <tr>
+<th>Website</th><td>	https://www.linkedin.com/in/nguyensymanhcuong</td></tr>
+</table>
+
 
 ## PROFESSIONAL SUMMARY
 

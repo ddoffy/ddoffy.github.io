@@ -40,9 +40,9 @@ disqus_shortname:   cuongnsm
 #email:
 twitter:            cuongnsm
 facebook:           nguyensymanhcuong
-github-url:         cuongnsm
+#github-url:         cuongnsm
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          nguyensymanhcuong
+linkedin:          nguyensymanhcuong
 #xing:              username
 instagram:          cuongnsm
 #lastfm:            username
@@ -50,7 +50,7 @@ instagram:          cuongnsm
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              cuongdoly
+#steam:              cuongdoly
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
