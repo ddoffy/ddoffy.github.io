@@ -18,7 +18,7 @@ comments: false
 Gender</th> <td>	Male </td> </tr> <tr>
 <th>Phone</th>	<td>+84972647258</td> </tr> <tr>
 <th>Email</th>		<td>cuongnsm@gmail.com</td> </tr> <tr>
-<th>Website</th><td>	https://www.linkedin.com/in/nguyensymanhcuong</td></tr>
+<th>Website</th><td>	<a href="https://www.linkedin.com/in/nguyensymanhcuong" target="_blank">nguyensymanhcuong</a></td></tr>
 </table>
 
 
