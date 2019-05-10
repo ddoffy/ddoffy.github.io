@@ -54,4 +54,20 @@ $(document).ready(function() {
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
+  tracking();
 });
+
+
+function tracking() {
+  $.ajax({
+      url: "http://cuongnsm.azurewebsites.net/api/tracking",
+      type: "post",
+      success: function() {
+          console.log("success");
+      },
+      error: function(x, xhr, err) {
+          console.log(err);
+      }
+  });
+}
+
