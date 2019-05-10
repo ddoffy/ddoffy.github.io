@@ -59,15 +59,8 @@ $(document).ready(function() {
 
 
 function tracking() {
-  $.ajax({
-      url: "http://cuongnsm.azurewebsites.net/api/tracking",
-      type: "post",
-      success: function() {
+  $.post("http://cuongnsm.azurewebsites.net/api/tracking", function() {
           console.log("success");
-      },
-      error: function(x, xhr, err) {
-          console.log(err);
-      }
-  });
+      });
 }
 
