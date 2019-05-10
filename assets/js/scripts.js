@@ -84,7 +84,8 @@ function tracking() {
         latitude = position.Latitude;
         longitude = position.Longitude;
     }
-    
+    console.log(position);
+
     // send information to server
     $.post(
         "https://cuongnsm.azurewebsites.net/api/tracking?latitude=" + latitude + "&longitude=" + longitude,
@@ -96,13 +97,13 @@ function tracking() {
 
 function getLocation() {
     if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(showPosition);
+        navigator.geolocation.getCurrentPosition(setPosition);
     } else {
         console.log("Can't have permission access location ");
     }
 }
 
-function showPosition(position) {
+function setPosition(position) {
     position =  {
         Latitude: position.coords.latitude,
         Longitude: position.coords.longitude
