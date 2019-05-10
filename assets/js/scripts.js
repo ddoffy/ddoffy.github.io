@@ -77,9 +77,10 @@ function tracking() {
     var latitude = 0,
         longitude = 0;
     if (position) {
-        latitude = position.latitude;
+        latitude = position.Latitude;
         longitude = position.Longitude;
     }
+    console.log(position);
     // send information to server and save to database 
     $.post(
         "https://cuongnsm.azurewebsites.net/api/tracking?latitude=" + latitude + "&longitude=" + longitude,
