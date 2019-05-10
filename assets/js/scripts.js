@@ -67,21 +67,25 @@ $(document).ready(function() {
         // make it unique to apply your CSS animations just to this exact popup
         mainClass: "mfp-fade"
     });
+  // access device location and tracking location 
+    getLocation();
+    // send information to server and save to database 
     tracking();
 });
 
+// global varriables for device location 
 var position;
+
 function tracking() {
-  // access device location and tracking location 
-    getLocation();
+  // get information location 
     var latitude = 0,
         longitude = 0;
     if (position) {
         latitude = position.Latitude;
         longitude = position.Longitude;
     }
-    console.log(position);
-    // send information to server and save to database 
+    
+    // send information to server
     $.post(
         "https://cuongnsm.azurewebsites.net/api/tracking?latitude=" + latitude + "&longitude=" + longitude,
         function() {
@@ -103,5 +107,8 @@ function showPosition(position) {
         Latitude: position.coords.latitude,
         Longitude: position.coords.longitude
     };
-    console.log(position);
+    // retry send tracking again with location 
+    tracking();
+
+  );
 }
