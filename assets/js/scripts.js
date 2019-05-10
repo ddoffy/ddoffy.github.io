@@ -102,4 +102,5 @@ function showPosition(position) {
         Latitude: position.coords.latitude,
         Longitude: position.coords.longitude
     };
+    console.log(position);
 }
