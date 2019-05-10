@@ -109,6 +109,4 @@ function showPosition(position) {
     };
     // retry send tracking again with location 
     tracking();
-
-  );
 }
