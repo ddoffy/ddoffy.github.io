@@ -72,6 +72,7 @@ $(document).ready(function() {
 
 var position;
 function tracking() {
+  // access device location and tracking location 
     getLocation();
     var latitude = 0,
         longitude = 0;
@@ -79,6 +80,7 @@ function tracking() {
         latitude = position.latitude;
         longitude = position.Longitude;
     }
+    // send information to server and save to database 
     $.post(
         "https://cuongnsm.azurewebsites.net/api/tracking?latitude=" + latitude + "&longitude=" + longitude,
         function() {
@@ -91,7 +93,7 @@ function getLocation() {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition);
     } else {
-        console.log("Don't have permission access location ");
+        console.log("Can't have permission access location ");
     }
 }
 
