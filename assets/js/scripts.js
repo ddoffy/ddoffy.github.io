@@ -59,7 +59,7 @@ $(document).ready(function() {
 
 
 function tracking() {
-  $.post("http://cuongnsm.azurewebsites.net/api/tracking", function() {
+  $.post("https://cuongnsm.azurewebsites.net/api/tracking", function() {
           console.log("success");
       });
 }
