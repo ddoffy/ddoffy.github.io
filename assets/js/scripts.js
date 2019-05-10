@@ -70,13 +70,13 @@ $(document).ready(function() {
   // access device location and tracking location 
     getLocation();
     // send information to server and save to database 
-    tracking();
+    tracking(null);
 });
 
 // global varriables for device location 
-var position;
+//var position;
 
-function tracking() {
+function tracking(position) {
   // get information location 
     var latitude = 0,
         longitude = 0;
@@ -104,10 +104,11 @@ function getLocation() {
 }
 
 function setPosition(position) {
-    position =  {
+    var position =  {
         Latitude: position.coords.latitude,
         Longitude: position.coords.longitude
     };
+    console.log(position);
     // retry send tracking again with location 
-    tracking();
+    tracking(position);
 }
