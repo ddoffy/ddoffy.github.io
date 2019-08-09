@@ -26,7 +26,7 @@ Gender</th> <td>	Male </td> </tr> <tr>
 
 ## PROFESSIONAL SUMMARY
 
-I am passionate interest in information technology. I can quickly learn a new programming language and a new technique. I am an open-minded individual and I can work well with other team-members. I have experienced in developing ASP.NET web and have good understanding about OOP and MVC framework. I have experienced in using C# language and a few others programming language. I have a little knowledges programming application for windows phone 8 and windows 8.1 and Xamarin and Android with Java Language on Android Studio IDE and Silverlight and WCF Service and Angular. I've graduated software engineering major at Vietnam National University Ho Chi Minh City, University of Information Technology. I focus about how to web development, mobile development, Objective Oriented Analysis and Design.
+I am passionate interest in information technology. I can quickly learn a new programming language and a new technique. I am an open-minded individual. I work well other team-members. 
 
 ## EDUCATION
 
