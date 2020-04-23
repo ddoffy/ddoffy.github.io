@@ -24,7 +24,7 @@ comments: false
         <th>Email</th><td>cuongnsm@gmail.com</td>
     </tr>
     <tr>
-        <th>Website</th><td><a href="https://www.linkedin.com/in/nguyensymanhcuong" target="_blank">nguyensymanhcuong</a></td>
+        <th>Linkedin</th><td><a href="https://www.linkedin.com/in/nguyensymanhcuong" target="_blank">nguyensymanhcuong</a></td>
     </tr>
 </table>
 
