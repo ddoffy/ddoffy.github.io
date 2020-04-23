@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Introduction
 tags: [about, cuongnsm, blogs, doffy, cuong euro]
 date: 2019-01-01
 comments: false
@@ -8,7 +8,7 @@ comments: false
 
 # Nguyen Sy Manh Cuong
 
-### Senior Developer
+### Software Engineer
 
 <table>
     <tr>
@@ -57,7 +57,7 @@ Global Software Talent - Global .NET Developer (FPT Software)
                 Technical
             </th>
             <td>
-                ASP.NET MVC, ASP.NET Core MVC, Angular, Entity Framework, ABP Framework, Wordpress
+                ASP.NET MVC, ASP.NET Core MVC, Angular, Entity Framework, ABP Framework, Wordpress, Bootstrap, jQuery
             </td>
         </tr>
         <tr>
@@ -92,5 +92,26 @@ Global Software Talent - Global .NET Developer (FPT Software)
                 SQL Server, MySQL
             </td>
         </tr>
+        <tr>
+            <th>
+                IDE
+            </th>
+            <td>
+                Visual Studio, Visual Stduio Code
+            </td>
+        </tr>
     </tbody>
 </table>
+
+## TECHNOLOGIES USED TO KNOW
+Programming Android native Apps, Programming Window 8/8.1/10 Apps, Programming Windows Phone Apps, Programming Silverlight, Programming cross-platform Apps with Xamarin, Manipulating Server Linux - Distro CentOS.
+
+
+## ON THE OTHER HAND
+I like reading, writing, listening, public speaking, hanging out with friends, playing and singing with guitar, swimming, roller skating,  ping pong, table football, billiards.
+<br>
+I do love chocolate. I do love coffee without sugar. I have a sweet tooth.
+<br>
+I like sitting back and observe. I am the king of the devil who comes from heaven.
+<br>
+I like helping people. I want positive humans surrounding me
