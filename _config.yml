@@ -1,14 +1,14 @@
 # Site
 title:              CuongNSM
-bio:                "Life's not fair. Get used to it."
+bio:                "The hardest victory is the victory over self"
 description:        "My gender is XY. Interested XX."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/mylogo/logo.jpeg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://cuongnsm.github.io/mysite
+url:                https://cuongnsm.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -39,12 +39,12 @@ disqus_shortname:   cuongnsm
 #bing-verify:
 #email:
 twitter:            cuongnsm
-# facebook:           nguyensymanhcuong
+facebook:           nguyensymanhcuong
 #github-url:         cuongnsm
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          nguyensymanhcuong
 #xing:              username
-# instagram:          cuongnsm
+instagram:          cuongnsm
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
