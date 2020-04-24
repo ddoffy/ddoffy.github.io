@@ -7,6 +7,7 @@ comments: false
 ---
 
 # Nguyen Sy Manh Cuong
+<img src="{{ site.profile.avatar }}" class="img zoombtn animated rotateIn">
 
 ### Software Engineer
 
