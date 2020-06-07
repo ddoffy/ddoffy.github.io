@@ -98,7 +98,7 @@ Global Software Talent - Global .NET Developer (FPT Software)
                 IDE
             </th>
             <td>
-                Visual Studio, Visual Stduio Code
+                Visual Studio, Visual Studio Code
             </td>
         </tr>
     </tbody>

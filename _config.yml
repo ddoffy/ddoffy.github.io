@@ -79,3 +79,7 @@ exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.j
 # Collections
 profile: 
   avatar: '/assets/img/avatar/cuongnsm.jpeg'
+
+# Images collections
+image-posts: 
+  the-black-swan: '/assets/img/the-black-swan/Black_Swan_2_-_Pitt_Town_Lagoon.jpg'
