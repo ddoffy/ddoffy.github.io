@@ -2,7 +2,7 @@
 layout: post
 title: "Call Logs for CRM"
 date: 2020-09-05 13:55
-category: Projects
+category: Project
 author: "Nguyen Sy Manh Cuong"
 tags: [ASP.NET, MSSQL Server, WCF, Silverlight, MSSQL Server, WCF, Silverlight]
 excertpt: "ZYCOO CooVox is an IP PBX device. We sync logs and records from ZYCOO CooVox to the CRM system. To help leaders manage, track, and analyze their staff. They can listen again to the staff's voice calls records directly from the CRM system. We integrated features into the CRM systems which would help staff can contact easily their customers on a personal computer without the phone. The integrated system is having the main features below: 
