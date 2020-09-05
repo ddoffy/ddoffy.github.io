@@ -22,4 +22,8 @@ ASP.NET Core MVC, MSSQL Server, Angular 2, jQuery, bootstrap, ASP.NET Core API, 
 
 Analyzing Requirements and Design, dev, design GUI, Database, document, writing procedure store, deploy
 
+# IDE for development
+
+Visual Stuio, Visual Studio Code
+
 ### Working Location: Gsoft - Ho Chi Minh City
