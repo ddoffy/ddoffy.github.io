@@ -38,5 +38,5 @@ summary: "ZYCOO CooVox is an IP PBX device. We sync logs and records from ZYCOO 
     Visual Studio 
 
 
-### Working Location: Ho Chi Minh City
+### Working Location: Gsoft - Ho Chi Minh City
 
