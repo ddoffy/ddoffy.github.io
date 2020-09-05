@@ -23,5 +23,9 @@ summary: "This is the system that includes web applications and mobile applicati
 
     Visual Studio 2015
 
+# Positon
+
+Analyst Requirement and design, dev ASP.NET, design GUI Mobile, Database, document
+
 
 ### Working Location: Ho Chi Minh City

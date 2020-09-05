@@ -30,13 +30,16 @@ summary: "ZYCOO CooVox is an IP PBX device. We sync logs and records from ZYCOO 
 
 # Technologies used 
 
-[ASP.NET, MSSQL Server, WCF, Silverlight, MSSQL Server, WCF, Silverlight, Visual Stuido]
+[ASP.NET, MSSQL Server, WCF, Silverlight, WCF, Silverlight]
 
 
 # IDE for development
 
     Visual Studio 
 
+# Position 
+
+Analyst Requirement and design, dev, design GUI, Database, document, write procedure store, deploy
 
 ### Working Location: Gsoft - Ho Chi Minh City
 
