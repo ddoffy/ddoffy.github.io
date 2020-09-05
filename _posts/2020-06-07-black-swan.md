@@ -11,5 +11,4 @@ summary: "The black swan"
 Why is the black swan? Why is not the black swan?
 I love the black swan cuz they are special to me at least.
 
-
 <img src="{{ site.image-posts.the-black-swan }}" class="img zoombtn animated rotateIn">
