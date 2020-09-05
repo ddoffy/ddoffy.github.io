@@ -24,7 +24,7 @@ summary: "This is the system that includes web applications and mobile applicati
 
 # Positon
 
-Analyst Requirement and design, dev ASP.NET, design GUI Mobile, Database, document
+Analyzing Requirements and Design, dev ASP.NET, design GUI Mobile, Database, document
 
 
 ### Working Location: Ho Chi Minh City

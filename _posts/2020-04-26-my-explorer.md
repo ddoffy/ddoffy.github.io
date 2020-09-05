@@ -20,7 +20,7 @@ Window Form, C#
 
 # Position 
 
-Dev, Analysis Requirement, Unit test, Database
+Dev, Analyzing Requirement and Design, Unit test, Database
 
 # IDE for development
 

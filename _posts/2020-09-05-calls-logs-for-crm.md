@@ -38,7 +38,7 @@ summary: "ZYCOO CooVox is an IP PBX device. We sync logs and records from ZYCOO 
 
 # Position 
 
-Analyst Requirement and design, dev, design GUI, Database, document, write procedure store, deploy
+Analyzing Requirements and Design, dev, design GUI, Database, document, writing procedure store, deploy
 
 ### Working Location: Gsoft - Ho Chi Minh City
 
