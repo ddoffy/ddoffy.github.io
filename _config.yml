@@ -32,7 +32,7 @@ disqus_shortname:   cuongnsm
 # if you don't have any of social below, comment the line.
 google:
   #plus:            #username
-  analytics: UA-177844251-1
+  analytics: UA-177844251-1 
   #verify:
   #ad-client:
   #ad-slot:
