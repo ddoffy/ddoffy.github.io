@@ -68,9 +68,9 @@ $(document).ready(function() {
         mainClass: "mfp-fade"
     });
   // access device location and tracking location 
-    getLocation();
+    // getLocation();
     // send information to server and save to database 
-    tracking(null);
+    // tracking(null);
 });
 
 // global varriables for device location 
@@ -108,7 +108,6 @@ function setPosition(position) {
         Latitude: position.coords.latitude,
         Longitude: position.coords.longitude
     };
-    console.log(position);
     // retry send tracking again with location 
     tracking(position);
 }
