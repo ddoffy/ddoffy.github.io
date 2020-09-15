@@ -1,50 +1,50 @@
 # Site
-title:              CuongNSM
-bio:                "The hardest victory is the victory over self"
-description:        "My gender is XY. Interested XX."
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/mylogo/logo.jpeg'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://cuongnsm.github.io/
+title: CuongNSM
+bio: "The hardest victory is the victory over self"
+description: "My gender is XY. Interested XX."
+reading_time: true
+words_per_minute: 200
+logo: "assets/img/mylogo/logo.jpeg"
+background: "assets/img/placeholder-big.jpg"
+tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
+locale: en_US
+url: https://cuongnsm.github.io/
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..6
+    enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+    sass_dir: _sass
+    style: compressed
 
 # Comments
-disqus_shortname:   cuongnsm
+disqus_shortname: cuongnsm
 
 # Social
 # if you don't have any of social below, comment the line.
 google:
-  #plus:            #username
-  analytics: UA-177844251-1 
-  verify:  dc60IV0jlsD1FYGYmPalqJhzQZI38c-mVDUmj9gW1LY
-  #ad-client:
-  #ad-slot:
+    #plus:            #username
+    analytics: UA-177844251-1
+    verify: dc60IV0jlsD1FYGYmPalqJhzQZI38c-mVDUmj9gW1LY
+    #ad-client:
+    #ad-slot:
 #bing-verify:
 email: cuongnsm@gmail.com
-twitter:            cuongnsm
-facebook:           nguyensymanhcuong
+twitter: cuongnsm
+facebook: nguyensymanhcuong
 #github-url:         cuongnsm
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          nguyensymanhcuong
+linkedin: nguyensymanhcuong
 #xing:              username
-instagram:          cuongnsm
+instagram: cuongnsm
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -64,23 +64,36 @@ instagram:          cuongnsm
 
 # Gems
 plugins:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jekyll-minifier
+    - jekyll-mentions
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-gist
+    - jekyll-seo-tag
 
 jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude:
+    [
+        README.md,
+        Gemfile,
+        Gemfile.lock,
+        node_modules,
+        gulpfile.js,
+        package.json,
+        _site,
+        src,
+        vendor,
+        CNAME,
+        LICENSE,
+        Rakefile,
+    ]
 
 # Collections
-profile: 
-  avatar: '/assets/img/avatar/cuongnsm.jpeg'
+profile:
+    avatar: "/assets/img/avatar/cuongnsm.jpeg"
 
 # Images collections
-image-posts: 
-  the-black-swan: '/assets/img/the-black-swan/Black_Swan_2_-_Pitt_Town_Lagoon.jpg'
+image-posts:
+    the-black-swan: "/assets/img/the-black-swan/Black_Swan_2_-_Pitt_Town_Lagoon.jpg"
