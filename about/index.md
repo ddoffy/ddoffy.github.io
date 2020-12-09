@@ -20,13 +20,13 @@ comments: false
         <th>Gender</th> <td>	Male </td> 
     </tr>
     <tr>
-        <th>Phone</th><td>+84972647258</td>
+        <th>Phone</th><td><a href="tel:{{site.phone}}">{{ site.phone }}</a></td>
     </tr>
     <tr>
-        <th>Email</th><td>cuongnsm@gmail.com</td>
+        <th>Email</th><td><a href="mailto: {{ site.email}}">{{ site.email }}</a></td>
     </tr>
     <tr>
-        <th>Linkedin</th><td><a href="https://www.linkedin.com/in/nguyensymanhcuong" target="_blank">nguyensymanhcuong</a></td>
+        <th>Linkedin</th><td><a  href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">nguyensymanhcuong</a></td>
     </tr>
 </table>
 
@@ -109,11 +109,7 @@ Global Software Talent - Global .NET Developer (FPT Software)
     </tbody>
 </table>
 
-## TECHNOLOGIES USED TO KNOW
-
-Programming Android native Apps, Programming Window 8/8.1/10 Apps, Programming Windows Phone Apps, Programming Silverlight, Programming cross-platform Apps with Xamarin, Manipulating Server Linux - Distro CentOS.
-
-## EXPERIENCE 
+## EXPERIENCE
 
 #### Senior Developer, FPT Software Ho Chi Minh, 2018-present
 
@@ -133,6 +129,10 @@ Programming Android native Apps, Programming Window 8/8.1/10 Apps, Programming W
 #### Internship, FPT Software Ho Chi Minh, 2015
 
 -   Global Student Talent and gained certificated
+
+## TECHNOLOGIES USED TO KNOW
+
+Programming Android native Apps, Programming Window 8/8.1/10 Apps, Programming Windows Phone Apps, Programming Silverlight, Programming cross-platform Apps with Xamarin, Manipulating Server Linux - Distro CentOS.
 
 ## ACTIVITIES
 
