@@ -113,6 +113,31 @@ Global Software Talent - Global .NET Developer (FPT Software)
 
 Programming Android native Apps, Programming Window 8/8.1/10 Apps, Programming Windows Phone Apps, Programming Silverlight, Programming cross-platform Apps with Xamarin, Manipulating Server Linux - Distro CentOS.
 
+## EXPERIENCE 
+
+#### Senior Developer, FPT Software Ho Chi Minh, 2018-present
+
+-   Attend requirement discussion, analytics, and coding with clients.
+-   Work as a part of a team of a client’ team
+-   Onsite or remote if any
+-   Develop a product of a client with the client team
+-   Research and identity root causes of defects and issues
+-   Work independently
+
+#### Software Developer, Global Software, 2016-2018
+
+-   Attend to requirement discussion, analytics, and coding after receiving requirements from a leader
+-   Develop web and desktop application
+-   In charge of training internship
+
+#### Internship, FPT Software Ho Chi Minh, 2015
+
+-   Global Student Talent and gained certificated
+
+## ACTIVITIES
+
+Nokia Window Phone Contest, KMS Hackathon
+
 ## ON THE OTHER HAND
 
 I like reading, writing, listening, public speaking, hanging out with friends, playing and singing with guitar, swimming, roller skating, ping pong, table football, billiards.
