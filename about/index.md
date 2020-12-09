@@ -7,6 +7,7 @@ comments: false
 ---
 
 # Nguyen Sy Manh Cuong
+
 <img src="{{ site.profile.avatar }}" class="img zoombtn animated rotateIn">
 
 ### Software Engineer
@@ -31,6 +32,8 @@ comments: false
 
 ## PROFESSIONAL SUMMARY
 
+I have experienced in .NET/.NET Core for 4 years with Agile methodology. Having good communication in both Vietnamese and English. Having experience in both an office environment and remote with international clients.
+<br>
 I am interested in information technology. I can quickly learn a new programming language and a new technique. I am willing to gain new things. I am an open-minded individual. I work well with other team members.
 
 ## EDUCATION
@@ -42,7 +45,9 @@ Bachelor of Engineering in Software Engineering, Viet Nam National University Ho
 Global Software Talent - Global .NET Developer (FPT Software)
 
 ## SKILLS
-### Familiar with: 
+
+### Familiar with:
+
 <table>
     <tbody>
         <tr>
@@ -105,14 +110,10 @@ Global Software Talent - Global .NET Developer (FPT Software)
 </table>
 
 ## TECHNOLOGIES USED TO KNOW
+
 Programming Android native Apps, Programming Window 8/8.1/10 Apps, Programming Windows Phone Apps, Programming Silverlight, Programming cross-platform Apps with Xamarin, Manipulating Server Linux - Distro CentOS.
 
-
 ## ON THE OTHER HAND
-I like reading, writing, listening, public speaking, hanging out with friends, playing and singing with guitar, swimming, roller skating,  ping pong, table football, billiards.
+
+I like reading, writing, listening, public speaking, hanging out with friends, playing and singing with guitar, swimming, roller skating, ping pong, table football, billiards.
 <br>
-I do love chocolate. I do love coffee without sugar. I have a sweet tooth.
-<br>
-I like sitting back and observe. I am the king of the devil who comes from heaven.
-<br>
-I like helping people. I want positive humans surrounding me
