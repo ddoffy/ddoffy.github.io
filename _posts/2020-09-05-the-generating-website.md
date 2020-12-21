@@ -17,7 +17,7 @@ tags:
     ]
 project: true
 summary: "The generating website is an automatic system to generate a website base on a template of many different categories. It is also a management system website for customers. It can create automatically a subdomain, so hosting and config server to publish the website completely. Customers may choose one of many categories base on their demand; The final step, the system will generate a website base on the template and category that customers have chosen. Management System Websites allow us to manage all of them. Ex: prices, domains, images previews, sources, and plugins, etc."
-excertpt: "The generating website is an automatic system to generate a website base on a template of many different categories. It is also a management system website for customers. It can create automatically a subdomain, so hosting and config server to publish the website completely. Customers may choose one of many categories base on their demand; The final step, the system will generate a website base on the template and category that customers have chosen. Management System Websites allow us to manage all of them. Ex: prices, domains, images previews, sources, and plugins, etc."
+excerpt: "The generating website is an automatic system to generate a website base on a template of many different categories."
 ---
 
 # (June 2017 - Nov 2017)

@@ -6,7 +6,7 @@ category: Projects
 author: "Nguyen Sy Manh Cuong"
 tags: [Window Form, C#, Visual stuio]
 project: true
-excerpt: "My Explorer is a desktop application run on the Windows platform. My Explorer is desktop application management files similar to Explorer desktop application which is running on Windows OS but My Explorer has two split- screen that show files and folder there. The left side has a page, the right side has a page and the topside have a tree folder. Features advance: ZIP, UNZIP."
+excerpt: "My Explorer is a desktop application run on the Windows platform."
 summary: "My Explorer is a desktop application run on the Windows platform. My Explorer is desktop application management files similar to Explorer desktop application which is running on Windows OS but My Explorer has two split- screen that show files and folder there. The left side has a page, the right side has a page and the topside have a tree folder. Features advance: ZIP, UNZIP."
 ---
 

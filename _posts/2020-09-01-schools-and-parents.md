@@ -19,7 +19,7 @@ tags:
         Git,
     ]
 project: true
-excertpt: "This is the system that includes web applications and mobile applications. The web application used ASP.NET MVC 5 to develop. Mobile applications used cross-platform technology named Xamarin. The mobile application is available on Android, iOS,  and Windows Phone operating system mobile, so we also support Windows 8/8.1. The system used multi-tenant architecture. It allows many schools to enroll in the system, each school control their data on the web application of the system by themselves because we provide the admin system for them to manage, contact and support parent of students in progress teaching their children."
+excerpt: "This is the system that includes web applications and mobile applications."
 summary: "This is the system that includes web applications and mobile applications. The web application used ASP.NET MVC 5 to develop. Mobile applications used cross-platform technology named Xamarin. The mobile application is available on Android, iOS,  and Windows Phone operating system mobile, so we also support Windows 8/8.1. The system used multi-tenant architecture. It allows many schools to enroll in the system, each school control their data on the web application of the system by themselves because we provide the admin system for them to manage, contact and support parent of students in progress teaching their children."
 ---
 
