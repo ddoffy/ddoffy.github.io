@@ -12,6 +12,8 @@ comments: false
 
 ### Software Engineer
 
+I have experienced in the .NET framework advanced for 4 years with Agile methodology. Having good communication in both Vietnamese and English. Having experience in both an office environment and remote with international clients. I can work independently
+
 <table>
     <tr>
         <th>DOB</th><td>16/10/1994</td>
@@ -31,10 +33,17 @@ comments: false
 </table>
 
 ## PROFESSIONAL SUMMARY
-
-I have experienced in .NET/.NET Core for 4 years with Agile methodology. Having good communication in both Vietnamese and English. Having experience in both an office environment and remote with international clients.
-<br>
-I am interested in information technology. I can quickly learn a new programming language and a new technique. I am willing to gain new things. I am an open-minded individual. I work well with other team members.
+<ul>
+    <li>	Native Speaker of Vietnamese</li>
+    <li>	Advanced proficiency in English</li>
+    <li>	Four years’ experience with the .NET and Agile methodology</li>
+    <li>	Research and identify root causes of defects and issues</li>
+    <li>	Understanding of the development of web API/services</li>
+    <li>	Experienced with Git</li>
+    <li>	Understanding of code principle, design pattern</li>
+    <li>	Take participate in requirement discussion, analytics, and suggestion with clients.</li>
+    <li>	Familiar with MSSQL Server, Entity Framework, Angular, HTML, CSS, JavaScript</li>
+</ul>
 
 ## EDUCATION
 
@@ -46,7 +55,7 @@ Global Software Talent - Global .NET Developer (FPT Software)
 
 ## SKILLS
 
-### Familiar with:
+### Familiar with:
 
 <table>
     <tbody>
@@ -63,7 +72,7 @@ Global Software Talent - Global .NET Developer (FPT Software)
                 Technical
             </th>
             <td>
-                ASP.NET MVC, ASP.NET Core MVC, Angular, Entity Framework, ABP Framework, Wordpress, Bootstrap, jQuery
+                ASP.NET Core/Standard, Angular, Entity Framework, ABP Framework, Wordpress, Bootstrap, jQuery
             </td>
         </tr>
         <tr>
