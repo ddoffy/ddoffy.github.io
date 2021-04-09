@@ -43,6 +43,7 @@ I have experienced in the .NET framework advanced for 4 years with Agile methodo
     <li>	Understanding of code principle, design pattern</li>
     <li>	Take participate in requirement discussion, analytics, and suggestion with clients.</li>
     <li>	Familiar with MSSQL Server, Entity Framework, Angular, HTML, CSS, JavaScript</li>
+    <li>    A team player </li>
 </ul>
 
 ## EDUCATION
@@ -128,6 +129,8 @@ Global Software Talent - Global .NET Developer (FPT Software)
 -   Develop a product of a client with the client team
 -   Research and identity root causes of defects and issues
 -   Work independently
+-   I have experienced 6 months on-site at PETRONAS Digital Sdn Bhd in Kuala Lumpur, Malaysia.
+-   Most of clients are from Singapore, Malaysia, and US
 
 #### Software Developer, Global Software, 2016-2018
 
