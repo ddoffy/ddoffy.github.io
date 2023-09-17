@@ -52,6 +52,7 @@ Because I have prior experience working both onsite and remotely with clients fr
     <li>    A VIM User </li>
     <li>    An Unix/Linux User </li>
     <li>    I've been working as A Technical Solution Architect for 2 years </li>
+
 </ul>
 
 ## EDUCATION
