@@ -44,7 +44,7 @@ twitter: cuongnsm
 facebook: nguyensymanhcuong
 #github-url:         cuongnsm
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: nguyensymanhcuong
+linkedin: cuongnguyensymanh
 #xing:              username
 instagram: cuongnsm
 #lastfm:            username
@@ -95,7 +95,7 @@ exclude:
 
 # Collections
 profile:
-    avatar: "/assets/img/avatar/cuongnguyensymanh.jpeg"
+    avatar: "/assets/img/avatar/profile.jpeg"
 
 # Images collections
 image-posts:
