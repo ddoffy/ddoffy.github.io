@@ -40,19 +40,16 @@ Because I have prior experience working both onsite and remotely with clients fr
     <li>	Research and identify root causes of defects and issues</li>
     <li>	Understanding of the development of web API/services</li>
     <li>	Experienced with Git</li>
-    <li>	Understanding of code principle, design pattern, KISS, DRY,
-    Microservices, Monolith</li>
+    <li>	Understanding of code principle, design pattern, KISS, DRY,Microservices, Monolith</li>
     <li>	Take participate in requirement discussion, analytics, and suggestion with clients.</li>
-    <li>	Familiar with Relational Databases such as MS SQL, MySQL, and
-    PostgreSQL </li>
-    <li>    NoSQL such as MongoDB
+    <li>	Familiar with Relational Databases such as MS SQL, MySQL, and PostgreSQL </li>
+    <li>    NoSQL such as MongoDB</li>
     <li>    Used to use ELK Stack </li>
     <li>    Memory Cached, Distributed Cache such Redis</li>
     <li>    A team player </li>
     <li>    A VIM User </li>
     <li>    An Unix/Linux User </li>
-    <li>    I've been working as A Technical Solution Architect for 2 years </li>
-
+    <li>    I've been working as A Technical Solution Architect since 2021 </li>
 </ul>
 
 ## EDUCATION
