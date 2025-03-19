@@ -12,9 +12,11 @@ comments: false
 
 ### Software Engineer
 
-I have been using DotNet Advanced, Golang, NodeJS, Python and the Agile methodology for the last eight years.
-I can speak English and Vietnamese well enough to get my point across.
-Because I have prior experience working both onsite and remotely with clients from all over the world, I am able to work independently.
+With over eight years of experience using .NET, Golang, Node.js, Python, and Agile methodologies, I've developed a strong ability to adapt and deliver high-quality software solutions. In recent years, I've been deeply exploring Rust, a language I'm genuinely passionate about for its powerful features and efficiency.
+
+I thrive on learning new programming languages and technologies, always aiming to leverage the right tools to effectively solve problems—because technology is valuable only when it provides meaningful solutions.
+
+Fluent in both English and Vietnamese, I communicate clearly and confidently, ensuring my ideas are always effectively conveyed. My extensive experience collaborating with international clients in both onsite and remote settings has empowered me to work independently and efficiently, regardless of location.
 
 <table>
     <tr>
@@ -62,6 +64,22 @@ Global Software Talent - Global .NET Developer (FPT Software)
 
 ## EXPERIENCE
 
+#### FPT Software Mexico - Guadalajara, 2024-present
+
+- Work as a nearshore team with clients from the US
+
+#### FPT Cox Automotive, 2022-2023
+
+- Work as an offshore team with clients from the US
+
+#### FPT Singapore, 2020-2021
+
+- Work as an offshore team with clients from Singapore
+
+#### FPT Software Malaysia, 2018-2019
+
+- Work as onshore team with clients from Malaysia
+
 #### Technical Solution Architect, FPT Software Ho Chi Minh, 2018-present
 
 -   Attend requirement discussion, analytics, and coding with clients.
@@ -83,15 +101,10 @@ Global Software Talent - Global .NET Developer (FPT Software)
 
 #### Internship, FPT Software Ho Chi Minh, 2015
 
--   Global Student Talent and gained certificated
+-   Global Student Talent certification
 
-## ACTIVITIES
-
-Nokia Window Phone Contest, KMS Hackathon
-
-## Religions: Confucianism
-
+## Philosophy
+Inspired by Wang Yangming's philosophy of "rectifying the mind to extend true knowledge," I seek continuous self-improvement through mindful introspection and ethical practice.
 ## ON THE OTHER HAND
-
-I like reading, writing, listening, public speaking, hanging out with friends, playing and singing with guitar, swimming, roller skating, ping pong, table football, billiards.
+Just enjoys immersing myself in books and stories
 <br>
