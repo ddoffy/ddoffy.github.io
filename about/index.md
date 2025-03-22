@@ -77,16 +77,15 @@ My philosophy, inspired by Wang Yangming’s insight—"rectifying the mind to e
 
 ---
 
-## Education
+## Education (2012-2017)
 
-**Bachelor of Engineering in Software Engineering**  
+**Bachelor of Engineering in Software Engineering** 
 Viet Nam National University Ho Chi Minh City - University Of Information Technology
 
 ---
 
 ## Certifications & Awards
 
-- **Global Software Talent** – Global .NET Developer Certification (FPT Software)
 - **Global Student Talent Certification** (FPT Software)
 
 ---
