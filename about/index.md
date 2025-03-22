@@ -6,105 +6,93 @@ date: 2019-01-01
 comments: false
 ---
 
-# Cuong Nguyen Sy Manh (Doffy)
+# Technical Solution Introduction
 
-<img src="{{ site.profile.avatar }}" class="img zoombtn animated rotateIn" id="myavatar">
+## About Me
 
-### Software Engineer
+**Cuong Nguyen Sy Manh (Doffy)**  
+**Technical Solution Architect & Software Engineer**
 
-With over eight years of experience using .NET, Golang, Node.js, Python, and Agile methodologies, I've developed a strong ability to adapt and deliver high-quality software solutions. In recent years, I've been deeply exploring Rust, a language I'm genuinely passionate about for its powerful features and efficiency.
+📧 [cuongnsm@gmail.com](mailto:cuongnsm@gmail.com) | 📞 +84 972647258 | [LinkedIn](https://linkedin.com/in/cuongnguyensymanh)  
+🌏 Fluent in English & Vietnamese  
+📍 Guadalajara, Mexico
 
-I thrive on learning new programming languages and technologies, always aiming to leverage the right tools to effectively solve problems—because technology is valuable only when it provides meaningful solutions.
+---
 
-Fluent in both English and Vietnamese, I communicate clearly and confidently, ensuring my ideas are always effectively conveyed. My extensive experience collaborating with international clients in both onsite and remote settings has empowered me to work independently and efficiently, regardless of location.
+## Professional Summary
 
-<table>
-    <tr>
-        <th>Gender</th> <td>	Male </td> 
-    </tr>
-    <tr>
-        <th>Phone</th><td><a href="tel:{{site.phone}}">{{ site.phone }}</a></td>
-    </tr>
-    <tr>
-        <th>Email</th><td><a href="mailto: {{ site.email}}">{{ site.email }}</a></td>
-    </tr>
-    <tr>
-        <th>Linkedin</th><td><a  href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">cuongnguyensymanh</a></td>
-    </tr>
-</table>
+With over eight years of extensive experience in software engineering, my journey has encompassed diverse projects and international collaborations. My technical expertise spans across languages and platforms such as **.NET**, **Golang**, **Node.js**, **Python**, and most recently, **Rust**—a language I've embraced enthusiastically for its performance, safety, and innovative features.
 
-## PROFESSIONAL SUMMARY
+Currently serving as a **Technical Solution Architect** since 2021, I've had the opportunity to work closely with clients from the US, Singapore, and Malaysia, both remotely and onsite. My role involves requirement discussions, system analysis, architectural suggestions, and hands-on development to ensure robust solutions tailored precisely to clients' business needs.
 
-<ul>
-    <li>	Native Speaker of Vietnamese</li>
-    <li>	Advanced proficiency in English</li>
-    <li>	Eight years’ experience with the .NET and Agile methodology</li>
-    <li>	Research and identify root causes of defects and issues</li>
-    <li>	Understanding of the development of web API/services</li>
-    <li>	Experienced with Git</li>
-    <li>	Understanding of code principle, design pattern, KISS, DRY,Microservices, Monolith</li>
-    <li>	Take participate in requirement discussion, analytics, and suggestion with clients.</li>
-    <li>	Familiar with Relational Databases such as MS SQL, MySQL, and PostgreSQL </li>
-    <li>    NoSQL such as MongoDB</li>
-    <li>    Used to use ELK Stack </li>
-    <li>    Memory Cached, Distributed Cache such Redis</li>
-    <li>    A team player </li>
-    <li>    A VIM User </li>
-    <li>    An Unix/Linux User </li>
-    <li>    I've been working as A Technical Solution Architect since 2021 </li>
-</ul>
+My philosophy, inspired by Wang Yangming’s insight—"rectifying the mind to extend true knowledge"—guides me towards constant learning, thoughtful introspection, and ethical practice in all professional endeavors.
 
-## EDUCATION
+---
 
-Bachelor of Engineering in Software Engineering, Viet Nam National University Ho Chi Minh City - University Of Information Technology
+## Core Competencies
 
-## CERTIFICATIONS AND AWARDS
+- **Programming Languages & Technologies:**
+  - Experienced in `.NET`, `Golang`, `Node.js`, `Python`
+  - Proficient and deeply passionate about `Rust`
 
-Global Software Talent - Global .NET Developer (FPT Software)
+- **Software Development Methodologies:**
+  - Agile methodologies
+  - Microservices and Monolithic architectures
+  - Design principles: KISS, DRY
+  - Skilled at Web API/Service development
 
-## EXPERIENCE
+- **Databases & Caching Systems:**
+  - Relational Databases: MS SQL, MySQL, PostgreSQL
+  - NoSQL: MongoDB
+  - Caching solutions: Redis (Memory & Distributed Cache)
 
-#### FPT Software Mexico - Guadalajara, 2024-present
+- **Tools & Platforms:**
+  - Version Control: Git
+  - ELK Stack for logging and monitoring
+  - Comfortable with Unix/Linux environments
+  - Vim user
 
-- Work as a nearshore team with clients from the US
+---
 
-#### FPT Cox Automotive, 2022-2023
+## Career Highlights
 
-- Work as an offshore team with clients from the US
+### Technical Solution Architect (2018–Present)  
+**FPT Software (Vietnam, Malaysia, Singapore, Mexico)**
 
-#### FPT Singapore, 2020-2021
+- Collaborated with international clients, primarily from US, Singapore, and Malaysia, in requirement discussions, technical analysis, and solution delivery.
+- Developed Proof of Concepts (POC) and system architectures tailored to diverse business scenarios.
+- Conducted root cause analysis and troubleshooting, delivering stable, maintainable solutions.
+- Worked independently, both onsite and remotely, efficiently managing tasks and maintaining effective communication.
 
-- Work as an offshore team with clients from Singapore
+### Software Developer (2016–2018)  
+**Global Software**
 
-#### FPT Software Malaysia, 2018-2019
+- Actively engaged in requirement analysis, web & desktop application development.
+- Mentored and trained interns, providing guidance and expertise.
 
-- Work as onshore team with clients from Malaysia
+### Internship (2015)  
+**FPT Software Ho Chi Minh City**
 
-#### Technical Solution Architect, FPT Software Ho Chi Minh, 2018-present
+- Achieved Global Student Talent certification, marking the beginning of my professional journey in software engineering.
 
--   Attend requirement discussion, analytics, and coding with clients.
--   Work as a part of a team of a client’ team
--   Onsite or remote if any
--   Develop a product of a client with the client team
--   Research and identity root causes of defects and issues
--   Work independently
--   Work abroad
--   Most of clients are from Singapore, Malaysia, and US
--   Provide solutions, technical, system architectures suggestions and POC for many projects of our
-    clients
+---
 
-#### Software Developer, Global Software, 2016-2018
+## Education
 
--   Attend to requirement discussion, analytics, and coding after receiving requirements from a leader
--   Develop web and desktop application
--   In charge of training internship
+**Bachelor of Engineering in Software Engineering**  
+Viet Nam National University Ho Chi Minh City - University Of Information Technology
 
-#### Internship, FPT Software Ho Chi Minh, 2015
+---
 
--   Global Student Talent certification
+## Certifications & Awards
 
-## Philosophy
-Inspired by Wang Yangming's philosophy of "rectifying the mind to extend true knowledge," I seek continuous self-improvement through mindful introspection and ethical practice.
-## ON THE OTHER HAND
-Just enjoys immersing myself in books and stories
-<br>
+- **Global Software Talent** – Global .NET Developer Certification (FPT Software)
+- **Global Student Talent Certification** (FPT Software)
+
+---
+
+## Philosophy & Interests
+
+Inspired by the philosophy of Wang Yangming, I am committed to continuous personal and professional development, believing that meaningful technology emerges from reflective understanding and ethical implementation.
+
+On a lighter note, I deeply enjoy immersing myself in books and stories, constantly finding new inspiration and perspectives beyond the world of technology.
