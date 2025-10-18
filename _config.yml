@@ -9,7 +9,7 @@ logo: "assets/img/mylogo/doffy-logo.webp"
 background: "assets/img/placeholder-big.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://doffylaw.org
+url: https://ddoffy.org
 
 # Jekyll
 permalink: /:title/
@@ -49,7 +49,6 @@ linkedin: cuongnguyensymanh
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:              cuongdoly
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
