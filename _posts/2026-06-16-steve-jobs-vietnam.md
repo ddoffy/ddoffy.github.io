@@ -2,6 +2,9 @@
 title: "Làm thế nào để có những Steve Jobs Việt Nam?"
 date: 2026-06-16
 draft: false
+tags: ["startup", "innovation", "tech-ecosystem", "steve-jobs", "venture-capital"]
+categories: ["Business", "Technology"]
+description: "Việt Nam không thiếu trí tuệ, nhưng thiếu hạ tầng dung túng rủi ro. Để có Steve Jobs, phải gỡ bỏ văn hóa sợ sai và bồi đắp hệ sinh thái đổi mới thực thụ."
 ---
 
 Để có một "Steve Jobs Việt Nam", chúng ta phải ngừng tư duy theo kiểu đẽo cày giữa đường và ngưng tôn vinh sự vâng lời như thước đo cao nhất của sự ưu tú. Thung lũng Silicon không tự nhiên sinh ra thiên tài; nó sinh ra một hệ sinh thái cho phép thiên tài được quyền thất bại mà không bị tước đoạt cơ hội làm lại. 
